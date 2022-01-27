@@ -1,0 +1,2 @@
+# ninjalegendscript
+ninjalegendsscript
